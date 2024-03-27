@@ -1,2 +1,2 @@
 # scRNA-Seq_endometriosis
-This repository contains R scripts and Seurat Objects of single cell sequecning data from Endometriosis Project.
+This repository contains R scripts used to process single cell sequencing data from Endometriosis Project.
